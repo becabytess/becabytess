@@ -4,7 +4,7 @@
 
 - 🔭 I am currently working on [Lip reading with DL](https://github.com/becabytess/Lip-reading-DL.git)
 
-- 📝 I regularly write articles on [coming soon](coming soon)
+- 📝 I regularly write articles on (https://becabytess.github.io/)
 
 - 💬 I work with  **Python , Machine learning , Deep learning , computer vision , NLP**
 
