@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Beka Alemu</h1>
 <h3 align="center">A passionate Deep Learning Engineer</h3>
 
-- 🔭 I am currently working on [Lip reading with DL](https://github.com/becabytess/Lip-reading-DL.git)
+- 🔭 I am currently working on [Synthetic Data generator with A.I Agents](https://github.com/becabytess/Agentic-Synthetic-Data-Generator)
 
 - 📝 I regularly write articles on [Beka's Blog](https://becabytess.github.io/)
 
