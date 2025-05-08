@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Beka Alemu</h1>
-<h3 align="center">A passionate Deep Learning Engineer</h3>
+<h3 align="center">A Self taught Deep Learning Engineer</h3>
 
 - 🔭 I am currently working on [Synthetic Data generator with A.I Agents](https://github.com/becabytess/Agentic-Synthetic-Data-Generator)
 
